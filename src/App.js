@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          WELCOME TO REACT APP BY SHELBIN
+          A DEMO PROJECT FOR OUR WORKSHOP 
         </p>
         <a
           className="App-link"
